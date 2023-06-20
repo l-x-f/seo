@@ -55,7 +55,7 @@ export default defineConfig({
 
     footer: {
       message: 'ISC Licensed.',
-      copyright: 'Copyright © 2023-present vayo'
+      copyright: 'Copyright © 2023-present xiaofei'
     }
   },
   markdown: {
