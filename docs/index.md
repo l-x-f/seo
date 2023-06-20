@@ -1,4 +1,4 @@
-# Vayo SEO 优化建议
+# SEO 优化建议
 
 ## 1.TDK 优化
 
@@ -38,13 +38,13 @@ TDK 是 Title(页面标题)、Meta Description（页面描述）和 Meta Keyword
   <a href="/" class="logo"><img src="/style/img/logo_c.svg" alt="" /></a>
   ```
 
-  修改为 （“上海望友” 文字需何核对 ）
+  修改为 （“title” 文字需何核对 ）
 
   ```html
   <h1>
     <a href="/" class="logo">
       <img src="/style/img/logo_c.svg" alt="" />
-      上海望友
+      title
     </a>
   </h1>
   ```

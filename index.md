@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Vayo Seo
-  text: Vayo Seo
+  name: Seo
+  text: Seo
   tagline:
   image:
     src: /favicon.ico
