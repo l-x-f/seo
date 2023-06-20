@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 const keywords = 'Web'
 
 export default defineConfig({
-  base: '/',
+  base: '/seo/',
   title: 'Seo',
   lang: 'zh-CN',
   description: 'Seo',
